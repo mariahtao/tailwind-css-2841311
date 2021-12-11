@@ -5,7 +5,7 @@
   "scripts": {
     "start": "tailwindcss -i ./src/styles.css -o ./build/css/styles.css --watch"
   },
-  "author": "Ray Villalobos",
+  "author": "Mariah",
   "license": "ISC",
   "devDependencies": {
     "@tailwindcss/jit": "^0.1.18",
